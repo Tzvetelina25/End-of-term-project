@@ -132,7 +132,7 @@ int main ()
     } else if (points > 4 && points < 8){
        cout << "You scored " << points << " out of 10! Well done! You did pretty fine. You’re not as big fan of Olivia as us but we still appreciate your attempt. Share with friends and good luck in the competition with them :)"<<endl;
     }else if (points < 5 && points > 0){
-       cout << "You scored " << points << " out of 10! You did... um... anyways... share with friends, hopefully they will score better. And listen to 'Sour', maybe next time you will not only recognise Drivers license"<<endl;
+       cout << "You scored " << points << " out of 10! You did... um... anyways... share with friends, hopefully they will score better. And listen to 'Sour', maybe next time you will not only recognise 'Drivers license'"<<endl;
     }else if (points == 0){
        cout << "You scored... 0 points. Oh, buddy... you’re such a disappointment. Have you even heard of Olivia? Go listen to 'Sour' ASAP! If you know what 'Sour' is... anyways, share with friends - maybe they’ve heard of her."<<endl;
     }
