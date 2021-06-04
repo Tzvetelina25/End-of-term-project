@@ -94,7 +94,7 @@ int main ()
     else{
         cout << "Ooops... You didn't guess it, the answer is 'Favorite crime'. However, here are the next lyrics:"<<endl;
     }
-    Sleep(1000);
+    Sleep(2000);
     cout << "You will never have to hurt the way you know that I do"<<endl;
     cout<< "a. Happier"<<"     "<<"b. Deja vu"<<"     "<<"c. Hope ur ok"<<"     "<<"d. Good 4 u"<<endl;
     cin>>guess;
